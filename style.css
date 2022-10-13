@@ -1,0 +1,15 @@
+body {
+  background-color: azure;
+}
+
+img {
+  border-radius: 50%;
+  width: 130px;
+  height: 130px;
+}
+
+#result {
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+}
